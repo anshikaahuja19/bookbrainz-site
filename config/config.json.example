@@ -4,7 +4,7 @@
 		"log": "debug",
 		"forceExitAfterMs": 5000
 	},
-	"musicbrainz": {
+	"metabrainz": {
 		"clientID": null,
 		"clientSecret": null,
 		"callbackURL": "http://localhost:9099/cb",
